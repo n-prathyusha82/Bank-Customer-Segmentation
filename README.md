@@ -11,6 +11,8 @@ Analyze customer data to identify patterns and trends
 Segment customers based on behavior and financial activity
 Evaluate profitability and potential risk indicators
 Present insights through interactive dashboards
+
+
 📌 Dashboards
 📍 1. Customer Demographics Dashboard
 Visualizes customer distribution by age, gender, region, and occupation
